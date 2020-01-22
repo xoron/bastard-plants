@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include "./sensors/water-sensor/water-sensor.h"
 
 void setup() {
   // put your setup code here, to run once:
