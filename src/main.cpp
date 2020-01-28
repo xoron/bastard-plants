@@ -2,6 +2,7 @@
 #include "./io/valve/valve.h"
 #include "./io/water-sensor/water-sensor.h"
 #include "./io/temperature-humidity-sensor/temperature-humidity-sensor.h"
+#include "./io/stepper-motor/stepper-motor.h"
 
 void setup() {
   // put your setup code here, to run once:
